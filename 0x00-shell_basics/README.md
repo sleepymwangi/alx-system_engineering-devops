@@ -1,1 +1,1 @@
-move all upper case letters to directory
+delee characters with /root
