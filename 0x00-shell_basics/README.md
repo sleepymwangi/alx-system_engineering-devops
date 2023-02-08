@@ -1,1 +1,1 @@
-delee characters with /root
+delete characters with /root
