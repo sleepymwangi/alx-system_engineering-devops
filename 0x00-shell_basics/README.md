@@ -1,1 +1,1 @@
-list all in /boot
+file type
