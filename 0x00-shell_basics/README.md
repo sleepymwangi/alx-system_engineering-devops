@@ -1,1 +1,1 @@
-creates the directories welcome/, welcome/to/
+Life is a series of commas, not periods
