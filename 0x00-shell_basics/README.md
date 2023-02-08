@@ -1,1 +1,1 @@
-delete characters with /root
+creates the directories welcome/, welcome/to/
