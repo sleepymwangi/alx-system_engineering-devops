@@ -1,1 +1,1 @@
-list current directory
+change working directory to home
